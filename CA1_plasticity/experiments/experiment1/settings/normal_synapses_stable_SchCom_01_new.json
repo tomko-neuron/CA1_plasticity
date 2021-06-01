@@ -1,0 +1,3141 @@
+{
+  "_comment": "ORI: SCH:COM [0.3, 0.7], RAD: SCH:COM [0.5, 0.5]",
+  "axon": [],
+  "lm_medium1": [
+    {
+      "distance": 555.0,
+      "init_weight": 0.00022482882903347747,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[217]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 555.0,
+      "init_weight": 0.00023095474904993098,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[218]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 535.0,
+      "init_weight": 0.00017623157198870938,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[219]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium1",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 575.0,
+      "init_weight": 0.00016621590404597807,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[220]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 535.0,
+      "init_weight": 0.00026228406408417763,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[221]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium1",
+      "segment_x": 0.3
+    }
+  ],
+  "lm_medium2": [
+    {
+      "distance": 555.0,
+      "init_weight": 0.00021068032719273147,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[202]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 575.0,
+      "init_weight": 0.0001933373045549424,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[203]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 515.0,
+      "init_weight": 0.0002100880647893673,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[204]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_medium2",
+      "segment_x": 0.1
+    }
+  ],
+  "lm_thick1": [
+    {
+      "distance": 455.0,
+      "init_weight": 0.00018880546405045272,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[209]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 415.0,
+      "init_weight": 0.00020379397926449522,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[210]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 475.0,
+      "init_weight": 0.00018882020796231146,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[211]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 455.0,
+      "init_weight": 0.0001808827808025294,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[212]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 495.0,
+      "init_weight": 0.0002072345606317527,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[213]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 475.0,
+      "init_weight": 0.0002057419706128437,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[214]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 415.0,
+      "init_weight": 0.0002206662283098496,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[215]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 435.0,
+      "init_weight": 0.0002528037842985634,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[216]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick1",
+      "segment_x": 0.3
+    }
+  ],
+  "lm_thick2": [
+    {
+      "distance": 435.0,
+      "init_weight": 0.00021828733814847277,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[199]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 415.0,
+      "init_weight": 0.0001737964655256152,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[200]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 435.0,
+      "init_weight": 0.00020871529587768002,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[201]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thick2",
+      "segment_x": 0.3
+    }
+  ],
+  "lm_thin1": [
+    {
+      "distance": 630.0,
+      "init_weight": 0.00018543898435361827,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[222]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 646.6666666666667,
+      "init_weight": 0.00025033367285102543,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[223]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.8333333333333334
+    },
+    {
+      "distance": 613.3333333333333,
+      "init_weight": 0.00021743974957004825,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[224]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.16666666666666666
+    },
+    {
+      "distance": 646.6666666666667,
+      "init_weight": 0.00017223884277022935,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[225]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.8333333333333334
+    },
+    {
+      "distance": 613.3333333333333,
+      "init_weight": 0.00016705995651523166,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[226]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.16666666666666666
+    },
+    {
+      "distance": 613.3333333333333,
+      "init_weight": 0.0002086125302680654,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[227]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.16666666666666666
+    },
+    {
+      "distance": 646.6666666666667,
+      "init_weight": 0.00022960417715661274,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[228]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin1",
+      "segment_x": 0.8333333333333334
+    }
+  ],
+  "lm_thin2": [
+    {
+      "distance": 630.0,
+      "init_weight": 0.00020359934945809077,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[205]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 646.6666666666667,
+      "init_weight": 0.00021953525269295215,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[206]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin2",
+      "segment_x": 0.8333333333333334
+    },
+    {
+      "distance": 613.3333333333333,
+      "init_weight": 0.00018020599455886288,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[207]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin2",
+      "segment_x": 0.16666666666666666
+    },
+    {
+      "distance": 630.0,
+      "init_weight": 0.00023799855697141713,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[208]",
+      "pathway": null,
+      "section": "CA1_PC_Tomko[0].lm_thin2",
+      "segment_x": 0.5
+    }
+  ],
+  "oridist1_1": [
+    {
+      "distance": 205.0,
+      "init_weight": 0.00021700327708961282,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[233]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00026364911656572953,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[234]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 132.27272727272728,
+      "init_weight": 0.00018975644405882198,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[235]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00028107921918730995,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[236]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00020599180321130925,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[237]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 186.81818181818184,
+      "init_weight": 0.00026529150771928124,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[238]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00019680048762513007,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[239]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00020139440208243687,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[240]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 241.36363636363637,
+      "init_weight": 0.00023590730155539002,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[241]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.0002087809623388082,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[242]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00017475478152820587,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[243]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00021581697053362452,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[244]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00020457906048734442,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[245]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 241.36363636363637,
+      "init_weight": 0.0002033670027062431,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[246]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00017397789361514975,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[247]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.00020839475417563339,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[248]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 295.90909090909093,
+      "init_weight": 0.0002301083089510037,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[249]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 295.90909090909093,
+      "init_weight": 0.00016853848187236683,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[250]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.00024470554596089987,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[251]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00027083816781542277,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[252]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00013490257399644142,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[253]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.00023437095504764223,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[254]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.0002157684721976413,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[255]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00022677103544847512,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[256]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.0002275723792107094,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[257]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 186.81818181818184,
+      "init_weight": 0.00021217251585446857,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[258]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.00016080986124232137,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[259]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 241.36363636363637,
+      "init_weight": 0.0002037964363313982,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[260]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 241.36363636363637,
+      "init_weight": 0.00015256164581696664,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[261]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 259.54545454545456,
+      "init_weight": 0.0002127307905576005,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[262]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.000261866557770978,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[263]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 259.54545454545456,
+      "init_weight": 0.00016980910475185635,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[264]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 295.90909090909093,
+      "init_weight": 0.00019777837048562166,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[265]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 259.54545454545456,
+      "init_weight": 0.00019069728809807055,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[266]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 132.27272727272728,
+      "init_weight": 0.0002156803070909781,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[267]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00019363507455940083,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[268]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 168.63636363636365,
+      "init_weight": 0.00021522654281091476,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[269]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 259.54545454545456,
+      "init_weight": 0.00022193554499263927,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[270]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 132.27272727272728,
+      "init_weight": 0.00022293923624422003,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[271]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 241.36363636363637,
+      "init_weight": 0.00021121965045474246,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[272]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0001923389981594042,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[273]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 186.81818181818184,
+      "init_weight": 0.00021858825107439682,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[274]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0001845408830684615,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[275]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_1",
+      "segment_x": 0.5909090909090909
+    }
+  ],
+  "oridist1_2": [
+    {
+      "distance": 205.0,
+      "init_weight": 0.00017766824460845984,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[276]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00024582480193705,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[277]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00022443423916717513,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[278]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.00021467834744812986,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[279]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.000200927462914986,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[280]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.00022064565365228854,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[281]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00022576038848156927,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[282]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00022442097313913028,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[283]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00022182247498854274,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[284]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.00015133583025102575,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[285]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.0001672903903473202,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[286]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00022091114849847525,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[287]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.0002495945722261365,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[288]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0001825693863758049,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[289]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00021452198167409145,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[290]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00023944285712715287,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[291]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00017319249553613536,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[292]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.0001771593176631528,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[293]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00025490895251463073,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[294]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00017303630345406702,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[295]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00019874765460834362,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[296]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.0002309106579011251,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[297]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.00020276765274801533,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[298]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.00025041530133540144,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[299]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.000226282108352008,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[300]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00017872675781467997,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[301]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00019207695186428532,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[302]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00017953831072279732,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[303]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.000293834181931577,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[304]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00016311342300532884,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[305]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00024217008340831025,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[306]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00021605254756283716,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[307]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00022561246409231225,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[308]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist1_2",
+      "segment_x": 0.22727272727272727
+    }
+  ],
+  "oridist2_1": [
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.00023045963160381878,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[312]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0002456471675300748,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[313]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00019156344810731092,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[314]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.000213321476347763,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[315]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00019287238491559245,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[316]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00022098952791422465,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[317]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.00020035927947271482,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[318]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00018339326014035225,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[319]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00020378916722013513,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[320]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00027514259086602346,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[321]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0002371032595015926,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[322]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.000176911817836411,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[323]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0001590929733225435,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[324]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.0002356185597817213,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[325]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00023320934017802118,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[326]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00018404588432623385,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[327]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00022985722494877508,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[328]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0001861827382098191,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[329]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00022365117413433095,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[330]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00019835504962882123,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[331]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 295.9090909090909,
+      "init_weight": 0.00023319586359025487,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[332]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.9545454545454546
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.0002252141868953366,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[333]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00018853848775097286,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[334]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00024016143103237707,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[335]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00022471521408287903,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[336]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00026410000034128524,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[337]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00021322995447807633,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[338]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00023077345600148175,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[339]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0002694389926048007,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[340]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00020051244376141503,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[341]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00025157361321048564,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[342]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0002829569350367482,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[343]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.0002003794178889682,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[344]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00020311097149197042,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[345]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.00016595718367042216,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[346]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00020279483359106297,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[347]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00019068355961329343,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[348]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00016641308896049898,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[349]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00017946728830150105,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[350]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00020009448835915864,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[351]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_1",
+      "segment_x": 0.7727272727272727
+    }
+  ],
+  "oridist2_2": [
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00019643489483721713,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[352]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00020935888864243572,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[353]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.0002456580876492099,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[354]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0001768760409869293,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[355]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.0002283356482689566,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[356]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.6818181818181818
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00022420793816166798,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[357]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00023353601326740395,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[358]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00024558990446907033,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[359]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00015372674307750407,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[360]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00021375744915873301,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[361]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.00019853325975039012,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[362]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00016584750645554035,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[363]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00025584154617289037,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[364]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.00015506816778186272,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[365]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 114.0909090909091,
+      "init_weight": 0.00020171612498144447,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[366]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.045454545454545456
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00019316071536873699,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[367]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.0001830905897402109,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[368]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0002259984163688284,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[369]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 186.8181818181818,
+      "init_weight": 0.0001896862210669712,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[370]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.4090909090909091
+    },
+    {
+      "distance": 150.45454545454544,
+      "init_weight": 0.0001806852757579527,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[371]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.22727272727272727
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.00020881488749507907,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[372]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00021531278968474953,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[373]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00022916065853461503,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[374]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 223.1818181818182,
+      "init_weight": 0.0002187689399400453,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[375]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5909090909090909
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.00018854076092481614,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[376]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.0001914341584594695,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[377]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.0002739233742609201,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[378]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.00020168571941778072,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[379]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 132.27272727272725,
+      "init_weight": 0.0001670086847004288,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[380]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.13636363636363635
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.000214443744376519,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[381]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 168.63636363636363,
+      "init_weight": 0.000185541033191299,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[382]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.3181818181818182
+    },
+    {
+      "distance": 205.0,
+      "init_weight": 0.00017288870382609257,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[383]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 259.5454545454545,
+      "init_weight": 0.00019444509854891077,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[384]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.7727272727272727
+    },
+    {
+      "distance": 277.72727272727275,
+      "init_weight": 0.00019803458879183818,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[385]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.8636363636363636
+    },
+    {
+      "distance": 241.36363636363635,
+      "init_weight": 0.00019984214383001118,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[386]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oridist2_2",
+      "segment_x": 0.6818181818181818
+    }
+  ],
+  "oriprox1": [
+    {
+      "distance": 35.0,
+      "init_weight": 0.00022093540956855101,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[229]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oriprox1",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 95.0,
+      "init_weight": 0.00015506988209649386,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[230]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oriprox1",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 95.0,
+      "init_weight": 0.00021967504999077586,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[231]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oriprox1",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 75.0,
+      "init_weight": 0.00019737362055587276,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[232]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oriprox1",
+      "segment_x": 0.7
+    }
+  ],
+  "oriprox2": [
+    {
+      "distance": 35.0,
+      "init_weight": 0.00025976591206340214,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[309]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].oriprox2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 15.0,
+      "init_weight": 0.00015073430467103707,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[310]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oriprox2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 55.0,
+      "init_weight": 0.00019479824451896122,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[311]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].oriprox2",
+      "segment_x": 0.5
+    }
+  ],
+  "radTdist1": [
+    {
+      "distance": 255.0,
+      "init_weight": 0.00017558016065356879,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[2]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 275.0,
+      "init_weight": 0.00020028481343785067,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[3]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 295.0,
+      "init_weight": 0.0002433817813366091,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[4]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 215.0,
+      "init_weight": 0.0002116898927283213,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[5]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 235.0,
+      "init_weight": 0.00021456460252234383,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[6]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 215.0,
+      "init_weight": 0.00020377757713180923,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[7]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 275.0,
+      "init_weight": 0.00019814299368834464,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[8]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 275.0,
+      "init_weight": 0.00020005541289182488,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[9]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 215.0,
+      "init_weight": 0.00022803326394283625,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[10]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 215.0,
+      "init_weight": 0.0002137295482358803,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[11]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 215.0,
+      "init_weight": 0.00017630950228825787,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[12]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist1",
+      "segment_x": 0.1
+    }
+  ],
+  "radTdist2": [
+    {
+      "distance": 375.0,
+      "init_weight": 0.00021181665958214642,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[13]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 315.0,
+      "init_weight": 0.00018266325926058718,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[14]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00023297951424808183,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[15]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 315.0,
+      "init_weight": 0.00020392133439840694,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[16]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.0001700394894265534,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[17]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.00020513453619335902,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[18]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00018331684909700304,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[19]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.00019504599367666873,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[20]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00022460213955205482,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[21]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 355.0,
+      "init_weight": 0.00021517512066691885,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[22]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 395.0,
+      "init_weight": 0.0002650037666746184,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[23]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 315.0,
+      "init_weight": 0.0002006037378928958,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[24]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 315.0,
+      "init_weight": 0.00020499947076546256,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[25]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.0001506864301271403,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[26]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.00023684518451957997,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[27]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 395.0,
+      "init_weight": 0.00019052936290872517,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[28]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.0001923456779901152,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[29]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00016806028787831799,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[30]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.0002811452127434408,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[31]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 395.0,
+      "init_weight": 0.00020455026908354447,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[32]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 395.0,
+      "init_weight": 0.00020271485620957256,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[33]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 315.0,
+      "init_weight": 0.00012310990060159768,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[34]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.1
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.0002486719912660364,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[35]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.00024935794630509957,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[36]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 375.0,
+      "init_weight": 0.00016220690896355901,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[37]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.7
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00017972208521938363,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[38]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 395.0,
+      "init_weight": 0.00019715337000305908,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[39]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.9
+    },
+    {
+      "distance": 355.0,
+      "init_weight": 0.00020481612773968645,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[40]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 355.0,
+      "init_weight": 0.00024230424496111833,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[41]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00016488695010837006,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[42]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 335.0,
+      "init_weight": 0.00018870828194498314,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[43]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.3
+    },
+    {
+      "distance": 355.0,
+      "init_weight": 0.00018617486435189892,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[44]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTdist2",
+      "segment_x": 0.5
+    }
+  ],
+  "radTmed1": [
+    {
+      "distance": 113.33333333333333,
+      "init_weight": 0.00024029973331276815,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[0]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].radTmed1",
+      "segment_x": 0.1
+    }
+  ],
+  "radTmed2": [
+    {
+      "distance": 196.66666666666669,
+      "init_weight": 0.00019478954515752506,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[1]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].radTmed2",
+      "segment_x": 0.7
+    }
+  ],
+  "radTprox1": [],
+  "radTprox2": [],
+  "rad_t1": [
+    {
+      "distance": 130.0,
+      "init_weight": 0.0001776358655382489,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[45]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00017218519298054083,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[46]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.0002156159074355654,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[47]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00019133282866241874,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[48]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.0001573965405440139,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[49]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00019307884816316374,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[50]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00023864396229349004,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[51]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00018511353492213088,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[52]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00022368660806843486,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[53]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 151.42857142857144,
+      "init_weight": 0.0002133404287792851,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[54]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 151.42857142857144,
+      "init_weight": 0.0002450415458102484,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[55]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 130.0,
+      "init_weight": 0.0001914705344073768,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[56]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00018295166876694638,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[57]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.0002093959703997808,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[58]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.0002168345489509537,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[59]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00022099282956294247,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[60]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 194.28571428571428,
+      "init_weight": 0.00021101606071106653,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[61]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 151.42857142857144,
+      "init_weight": 0.0001908826558439509,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[62]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00022891291389533317,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[63]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 65.71428571428572,
+      "init_weight": 0.00020623126696858867,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[64]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00020084135641770036,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[65]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 151.42857142857144,
+      "init_weight": 0.00015319346188318844,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[66]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00013702166996660317,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[67]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 194.28571428571428,
+      "init_weight": 0.00020820987921309903,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[68]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.0001899702834096213,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[69]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 65.71428571428572,
+      "init_weight": 0.0002132751168657721,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[70]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 65.71428571428572,
+      "init_weight": 0.00017080445990466149,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[71]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 151.42857142857144,
+      "init_weight": 0.00015811230881674032,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[72]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00017457541247625156,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[73]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00017899632400377564,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[74]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00022519450586015093,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[75]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00016474487181621629,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[76]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.0002039302612772407,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[77]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 65.71428571428572,
+      "init_weight": 0.0002414797434738829,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[78]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.0001758938918894333,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[79]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00021591006905906032,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[80]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00019271623431216936,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[81]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.00016282852472361743,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[82]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 87.14285714285714,
+      "init_weight": 0.0002367563968491273,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[83]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 108.57142857142857,
+      "init_weight": 0.00019027127524880803,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[84]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 172.85714285714286,
+      "init_weight": 0.00020715138563463526,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[85]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t1",
+      "segment_x": 0.7857142857142857
+    }
+  ],
+  "rad_t2": [
+    {
+      "distance": 230.0,
+      "init_weight": 0.0001916437617507987,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[86]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00017450452286838525,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[87]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00021560361103244323,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[88]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.000207643373043147,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[89]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.00022553362444876276,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[90]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00018930895334590093,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[91]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0002843320655210532,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[92]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00017015665681939835,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[93]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00015594755926473392,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[94]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0001802714994926694,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[95]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00019770110579408532,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[96]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00015885946028034326,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[97]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00022936813262484058,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[98]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0001984018617602658,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[99]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00023615165338388908,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[100]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0001663228593002733,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[101]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.00022755834847325017,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[102]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00019224026881920332,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[103]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00018820334302057873,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[104]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.00022249654721009384,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[105]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00021146299261695124,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[106]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.00020390756794230023,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[107]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00019991949449658464,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[108]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00028138178221730973,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[109]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 272.8571428571429,
+      "init_weight": 0.00017119638526576426,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[110]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.0002492148780093138,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[111]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 208.57142857142856,
+      "init_weight": 0.0001877838193995791,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[112]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00026608747684422353,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[113]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.00019389097523417497,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[114]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.00023655097061106958,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[115]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 165.71428571428572,
+      "init_weight": 0.0002432528469820969,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[116]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.00023181174824492756,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[117]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0001802797626438445,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[118]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 272.8571428571429,
+      "init_weight": 0.00020959761471323453,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[119]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.00018717695918868383,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[120]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.00015366464441632913,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[121]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 208.57142857142856,
+      "init_weight": 0.0001779649088044137,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[122]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 272.8571428571429,
+      "init_weight": 0.0001979642227376209,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[123]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.00020521695070160236,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[124]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00020973230012658766,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[125]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.000225808634834958,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[126]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00023935581221669545,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[127]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00013851967034059519,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[128]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 251.42857142857144,
+      "init_weight": 0.0002085155054240281,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[129]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0002751823742184376,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[130]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 272.8571428571429,
+      "init_weight": 0.0002026699424948603,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[131]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00021359516180244245,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[132]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.00024102256448946285,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[133]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 272.8571428571429,
+      "init_weight": 0.00020306276771652433,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[134]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 208.57142857142856,
+      "init_weight": 0.00022334382593392383,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[135]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 294.2857142857143,
+      "init_weight": 0.000174380041886957,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[136]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 230.0,
+      "init_weight": 0.00021563706728627502,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[137]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 187.14285714285714,
+      "init_weight": 0.0001946083786663432,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[138]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t2",
+      "segment_x": 0.21428571428571427
+    }
+  ],
+  "rad_t3": [
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00019139894969292333,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[139]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00020940142836611388,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[140]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00021703109703505067,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[141]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00022602400272309724,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[142]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 337.1428571428571,
+      "init_weight": 0.00021660969164839162,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[143]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.00023286199974170376,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[144]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00019785293873559372,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[145]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00024439113376894676,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[146]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00022681210760353072,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[147]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00022895328130728037,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[148]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.0001927644164027625,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[149]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.0002574799267433311,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[150]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.00020152677871078948,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[151]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.000181800866232546,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[152]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 444.2857142857143,
+      "init_weight": 0.00020171043156450548,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[153]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.0002749052735413246,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[154]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00019824807516329368,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[155]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.00020416904107835041,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[156]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00018118811472320637,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[157]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00023705394388230666,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[158]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00022371689114932656,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[159]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00020510691727649942,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[160]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.0002043760329760203,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[161]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 337.1428571428571,
+      "init_weight": 0.0001865782236825925,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[162]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00016542391796775426,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[163]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.0002436261768571704,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[164]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.00021213907615259272,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[165]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00018742916518649154,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[166]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.0002052918442369671,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[167]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.000214793543861414,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[168]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.0002122550285093121,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[169]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.00020740886587433143,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[170]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00023297404252075913,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[171]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.00021519040205311428,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[172]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.0002085363676660345,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[173]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00023288650961638576,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[174]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.0001943164936382389,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[175]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00023335757845616796,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[176]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.00023465940354694585,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[177]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00016604537968423146,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[178]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.00015345647461732805,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[179]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00021461668844155706,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[180]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.000181647107577862,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[181]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 444.2857142857143,
+      "init_weight": 0.00018512708463445883,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[182]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00025693311877943983,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[183]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.0002048540768959682,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[184]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 337.1428571428571,
+      "init_weight": 0.0002092868488367551,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[185]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00019318022525505318,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[186]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.000217192641226287,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[187]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.00018689896058354967,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[188]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.0002456992706669279,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[189]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00021645012089796485,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[190]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 337.1428571428571,
+      "init_weight": 0.00021461667669990368,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[191]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.21428571428571427
+    },
+    {
+      "distance": 358.57142857142856,
+      "init_weight": 0.00021979501176916795,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[192]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.35714285714285715
+    },
+    {
+      "distance": 401.42857142857144,
+      "init_weight": 0.00019879783461675387,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[193]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.6428571428571429
+    },
+    {
+      "distance": 444.2857142857143,
+      "init_weight": 0.0002384425760756335,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[194]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.9285714285714286
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.00020153446351078212,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[195]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 422.8571428571429,
+      "init_weight": 0.0002450564303282826,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[196]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.7857142857142857
+    },
+    {
+      "distance": 380.0,
+      "init_weight": 0.0002021474333376205,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[197]",
+      "pathway": "COM",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.5
+    },
+    {
+      "distance": 315.7142857142857,
+      "init_weight": 0.00020301017733617057,
+      "name": "Exp2SynSTDP_multNNb_globBCM_intscount_precentred[198]",
+      "pathway": "SCH",
+      "section": "CA1_PC_Tomko[0].rad_t3",
+      "segment_x": 0.07142857142857142
+    }
+  ],
+  "soma[0]": []
+}

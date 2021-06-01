@@ -1,0 +1,111 @@
+{
+  "BCM": {
+    "BCM_ALPHA": 2000,
+    "BCM_D0": 0.0003,
+    "BCM_P0": 0.0001,
+    "BCM_SCOUNT0": 0.00055,
+    "BCM_SCOUNTTAU": 60000
+  },
+  "netstim": {
+    "NETSTIM_FREQUENCY": 2,
+    "NETSTIM_NUMBER": 1000000000.0,
+    "NETSTIM_SEED": 10,
+    "NETSTIM_START": 10
+  },
+  "protocol": {
+    "Dong_SSt": {
+      "DONG_COM_START": 300050,
+      "DONG_INTERPULSE_INTERVAL": 200,
+      "DONG_PULSES_NUM": 600,
+      "DONG_SCH_START": 300000,
+      "DONG_STIMULATED_PERC": 0.8,
+      "DONG_WEIGHT": 0.00073
+    },
+    "Pavlowsky_Alarcon": {
+      "HFS_INTERTRAIN": 180000,
+      "HFS_START": 300000,
+      "HFS_STIMULATED_PERC": 0.8,
+      "HFS_TRAINS_NUM": 4,
+      "HFS_WEIGHT": 0.00073,
+      "LFS_START": 300000,
+      "LFS_STIMULATED_PERC": 1.0,
+      "LFS_STIM_LEN": 900000,
+      "LFS_WEIGHT": 0.00073,
+      "PP_NUM": 900,
+      "PP_START": 180000,
+      "PP_STIMULATED_PERC": 0.8,
+      "PP_WEIGHT": 0.00073
+    },
+    "square_pulses": {
+      "SQ_PULSES_NUM": 3,
+      "SQ_INTERPULSE_INTERVAL": 200,
+      "SQ_FREQUENCY": 100,
+      "SQ_INTERSPIKE_INTERVAL": 10,
+      "SQ_STIMULI_NUM": 100,
+      "SQ_START": 10000,
+      "SQ_WEIGHT": 0.00073
+    },
+    "theta_burst": {
+      "TB_STIMULI_NUM": 5,
+      "TB_INTERSPIKE_INTERVAL": 10,
+      "TB_BURSTS_NUM": 5,
+      "TB_INTERBURST_INTERVAL": 200,
+      "TB_START": 50,
+      "TB_WEIGHT": 0.0001,
+      "PP_STIM_APINBURST": 4,
+      "PP_STIM_T01": 20,
+      "PP_WEIGHT": 0.00073
+    }
+  },
+  "simulation": {
+    "DT": 0.02,
+    "RECORDING_STEP": 1,
+    "TSTOP": 1300000
+  },
+  "synapse": {
+    "SYN_COUNT": 391,
+    "SYN_DTAU": 33.7,
+    "SYN_E": 0,
+    "SYN_PTAU": 16.8,
+    "SYN_START": 0,
+    "SYN_TAU1": 0.5,
+    "SYN_TAU2": 3
+  },
+  "initial_weights": {
+    "ORIENS_MIN_WEIGHT": 0.00090,
+    "ORIENS_MAX_WEIGHT": 0.00095,
+    "RADIATUM_MIN_WEIGHT": 0.00090,
+    "RADIATUM_MAX_WEIGHT": 0.00095,
+    "LM_MIN_WEIGHT": 0.00090,
+    "LM_MAX_WEIGHT": 0.00095
+  },
+  "section_lists": {
+    "ori_secs": [
+      "oriprox1",
+      "oriprox2",
+      "oridist1_1",
+      "oridist1_2",
+      "oridist2_1",
+      "oridist2_2"
+    ],
+    "rad_secs": [
+      "radTprox1",
+      "radTprox2",
+      "radTmed1",
+      "radTmed2",
+      "radTdist1",
+      "radTdist2",
+      "rad_t1",
+      "rad_t3",
+      "rad_t2"
+    ],
+    "lm_secs": [
+      "lm_thick1",
+      "lm_medium1",
+      "lm_thin1",
+      "lm_thick2",
+      "lm_medium2",
+      "lm_thin2"
+    ]
+  }
+}
