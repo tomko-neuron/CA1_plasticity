@@ -1,2 +1,3 @@
-# CA1_plasticity
-Computational model of synaptic plasticity in CA1 region of hippocampus
+## CA1_plasticity
+
+Code repository of the dissertation thesis: https://opac.crzp.sk/?fn=detailBiblioForm&sid=52328540584FDC4D928023AB80F2
