@@ -15,7 +15,7 @@ git clone https://github.com/tomko-neuron/CA1_plasticity.git
 # CA1 pyramidal cell model
 
 In simulations is used a reduced-morphology model for CA1 pyramidal cells. The model was optimized and tested
-using [HippoUnit](https://github.com/KaliLab/hippounit). The model is assiociated with a
+using [HippoUnit](https://github.com/KaliLab/hippounit). The model is associated with a
 paper: [A new reduced-morphology model for CA1 pyramidal cells and its validation and comparison with other models using HippoUnit](https://www.nature.com/articles/s41598-021-87002-7)
 and [GitHub repository](https://github.com/tomko-neuron/HippoUnit).
 
