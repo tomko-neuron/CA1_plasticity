@@ -61,8 +61,8 @@ if __name__ == '__main__':
     ioh = IOHelper(path_saving='recordings/example/', path_settings='settings/')
     try:
         setting = ioh.load_setting()
+        prepare_simulation()
+        figures()
     except Exception as e:
         print(e)
         print('Loading setting failed. Program terminated.')
-        prepare_simulation()
-        figures()
